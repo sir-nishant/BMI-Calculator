@@ -1,4 +1,2 @@
-# BMI-Calculator
+#Train Ticket Reservation
 This is my first repository
-<br>
-Author-Nishant Shrotriya
